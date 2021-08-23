@@ -1,0 +1,45 @@
+.mat-dialog-content {
+    overflow: hidden;
+}
+
+.button-globe {
+    float:right;
+    margin-top:-5px;
+    /* background-color: #a714ff85; */
+}
+
+.dialog-title {
+    float:left;
+}
+
+.dialog-content {
+    float: left;
+}
+
+::ng-deep .mat-dialog-container {
+    background-color: #fff0f0de;
+}
+
+::ng-deep .row {
+    display: block;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    margin-right: -15px;
+}
+
+::ng-deep .mat-form-field {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+::ng-deep .mat-dialog-actions {
+    display: inline-flex;
+    padding: 8px 0;
+    flex-wrap: wrap;
+    min-height: 52px;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: -24px;
+}

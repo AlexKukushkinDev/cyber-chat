@@ -1,0 +1,12 @@
+{
+    "FieldRequired": "Это поле является обязательным",
+    "Settings 1": "Информация о Cypher Chat API",
+    "Settings 2": "Настройки 2",
+    "Settings 3": "Настройки 3",
+    "Please type your username": "Введите свое имя",
+    "Username": "Имя пользователя",
+    "Dialog Title": "{{title_ru}}",
+    "joined to the conversation.": "подключился к разговору.",
+    "is now": "теперь стал",
+    "Type your message": "Печатать текст"
+}
